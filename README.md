@@ -8,7 +8,7 @@ This is used by <a href="http://mobogaming.com" />MoBogaming.com</a> to redirect
 RewriteEngine On
 RewriteCond %{HTTP_HOST} ^old-domain.tld$ [OR]
 RewriteCond %{HTTP_HOST} ^www.old-domain.tld$
-RewriteRule ^(.*)$ http://new-domain.tld/$1 [R=301,L]</code>
+RewriteRule ^(.*)$ http://new-domain.tld/$1 [R=301,L]
 ```
 
 ## Usage
