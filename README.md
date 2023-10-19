@@ -1,5 +1,5 @@
 # Redirect Old Links to New Domain
-This is a basic .htaccess file used to use the rewrite engine of a web server to redirect from one domain link to the new domain location.
+This is a basic .htaccess file which uses the rewrite engine of a webserver to redirect from an old Domain to the New domain keeping the original link intact.
 
 This is used by <a href="http://mobogaming.com" />MoBogaming.com</a> to redirect all old links/files to the new domain <a href="https://hails.cc" />Hails.cc</a>
 
